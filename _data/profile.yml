@@ -8,7 +8,7 @@ navbar_name: "Vien Ngo"
 # - name: CTO
 
 
-email: "v.vienna@vinrobotics.net"
+email: vien.ngo@gmail.com #"v.vienna@vinrobotics.net"
 # cv_link: link-to-your-cv-file
 gscholar: xk1gsM8AAAAJ  # This is an example, replace it with your own Google Scholar ID
 # github: vienna
@@ -22,7 +22,9 @@ linkedin: vien-ngo-383ba3a6
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am the Deputy CEO and CTO of <a href="https://vinrobotics.net/">VinRobotics</a>, a VinGroup subsidiary aiming to lead robotics innovation in Vietnam and the region.
+    I am the Deputy CEO and CTO of 
+    #<a href="https://vinrobotics.net/">VinRobotics</a>, 
+    a VinGroup Robotics subsidiary aiming to lead robotics innovation. # in Vietnam and the region.
     I am also an affiliated faculty member in the college of EECS at <a href="https://vinuni.edu.vn/">VinUni</a>.
   </p>
   <p>     
