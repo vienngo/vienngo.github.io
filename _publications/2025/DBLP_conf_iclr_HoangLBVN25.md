@@ -2,7 +2,8 @@
 title: 'Geometry-aware RL for Manipulation of Varying Shapes and Deformable
 
   Objects'
-date: '2025-01-01'
+date: '2025-04-24'
+cover: /assets/images/covers/hepi_iclr25.gif
 selected: True
 authors:
 - 'Tai Hoang and

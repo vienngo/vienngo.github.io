@@ -1,7 +1,8 @@
 ---
 title: Diffusion for Multi-Embodiment Grasping
 selected: True
-date: '2025-01-01'
+date: '2025-02-01'
+cover: /assets/images/covers/diffusion_grasp_ral25.svg
 authors:
 - 'Roman Freiberg and
 

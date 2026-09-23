@@ -1,6 +1,7 @@
 ---
 title: Efficient Off-Policy Learning for High-Dimensional Action Spaces
-date: '2025-01-01'
+date: '2025-04-24'
+cover: /assets/images/covers/vlearn_iclr25.svg
 selected: True
 authors:
 - 'Fabian Otto and

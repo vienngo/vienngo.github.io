@@ -2,7 +2,8 @@
 title: 'Enhancing Exploration With Diffusion Policies in Hybrid Off-Policy
 
   RL: Application to Non-Prehensile Manipulation'
-date: '2025-01-01'
+date: '2025-05-01'
+cover: /assets/images/covers/hydo_ral25.gif
 selected: True
 authors:
 - 'Huy Le and
