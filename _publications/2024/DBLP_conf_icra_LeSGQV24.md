@@ -3,6 +3,7 @@ title: 'Pseudo Labeling and Contextual Curriculum Learning for Online Grasp
 
   Learning in Robotic Bin Picking'
 date: '2024-01-01'
+cover: /assets/images/covers/pseudolabel_icra24.svg
 authors:
 - 'Huy Le and
 

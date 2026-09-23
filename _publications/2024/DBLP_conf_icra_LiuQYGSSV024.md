@@ -1,6 +1,7 @@
 ---
 title: Efficient End-to-End Detection of 6-DoF Grasps for Robotic Bin Picking
 date: '2024-01-01'
+cover: /assets/images/covers/grasp6dof_icra24.svg
 authors:
 - 'Yushi Liu and
 

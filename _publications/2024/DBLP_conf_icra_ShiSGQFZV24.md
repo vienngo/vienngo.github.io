@@ -1,6 +1,7 @@
 ---
 title: Uncertainty-driven Exploration Strategies for Online Grasp Learning
 date: '2024-01-01'
+cover: /assets/images/covers/uncertainty_explore_icra24.svg
 authors:
 - 'Yitian Shi and
 
