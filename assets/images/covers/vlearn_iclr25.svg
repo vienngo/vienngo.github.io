@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" width="480" height="320">
+<title>Vlearn: Learning only V avoids a Q-function over a huge action space</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5b6b7b"/></marker></defs>
+<rect width="480" height="320" fill="#ffffff"/>
+<rect x="0" y="0" width="480" height="6" fill="#2f6f9f"/>
+<text x="16" y="54" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="34.0" font-weight="700" letter-spacing="-0.5" fill="#1f2a37">Vlearn</text>
+<text x="16" y="80" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15.5" fill="#5b6b7b">Off-policy RL for high-dim actions</text>
+<line x1="405" y1="30" x2="405" y2="42" stroke="#2f6f9f" stroke-width="3" stroke-linecap="round"/>
+<line x1="405" y1="42" x2="405" y2="66" stroke="#2f6f9f" stroke-width="3" stroke-linecap="round"/>
+<line x1="405" y1="42" x2="388" y2="56" stroke="#2f6f9f" stroke-width="3" stroke-linecap="round"/>
+<line x1="405" y1="42" x2="422" y2="56" stroke="#2f6f9f" stroke-width="3" stroke-linecap="round"/>
+<line x1="405" y1="66" x2="394" y2="88" stroke="#2f6f9f" stroke-width="3" stroke-linecap="round"/>
+<line x1="405" y1="66" x2="416" y2="88" stroke="#2f6f9f" stroke-width="3" stroke-linecap="round"/>
+<circle cx="405" cy="30" r="3.5" fill="#fff" stroke="#2f6f9f" stroke-width="2"/>
+<circle cx="405" cy="42" r="3.5" fill="#fff" stroke="#2f6f9f" stroke-width="2"/>
+<circle cx="405" cy="66" r="3.5" fill="#fff" stroke="#2f6f9f" stroke-width="2"/>
+<circle cx="388" cy="56" r="3.5" fill="#fff" stroke="#2f6f9f" stroke-width="2"/>
+<circle cx="422" cy="56" r="3.5" fill="#fff" stroke="#2f6f9f" stroke-width="2"/>
+<circle cx="394" cy="88" r="3.5" fill="#fff" stroke="#2f6f9f" stroke-width="2"/>
+<circle cx="416" cy="88" r="3.5" fill="#fff" stroke="#2f6f9f" stroke-width="2"/>
+<rect x="16.0" y="112.0" width="95.5" height="128.0" rx="10" fill="#eef1f4" stroke="#4a5a6a" stroke-width="2"/>
+<text x="63.8" y="171.8" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">Replay</text>
+<text x="63.8" y="191.4" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">buffer</text>
+<rect x="133.5" y="112.0" width="95.5" height="128.0" rx="10" fill="#e6f0f7" stroke="#2f6f9f" stroke-width="2"/>
+<text x="181.2" y="142.6" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">State-</text>
+<text x="181.2" y="162.1" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">value</text>
+<text x="181.2" y="181.6" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">critic</text>
+<text x="181.2" y="201.1" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">V(s) (no</text>
+<text x="181.2" y="220.6" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">Q)</text>
+<line x1="114.5" y1="176.0" x2="130.5" y2="176.0" stroke="#5b6b7b" stroke-width="2.2" marker-end="url(#ah)"/>
+<rect x="251.0" y="112.0" width="95.5" height="128.0" rx="10" fill="#f1eaf6" stroke="#7a4f9a" stroke-width="2"/>
+<text x="298.8" y="154.7" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.393939393939393" font-weight="500" fill="#1f2a37">Importance-</text>
+<text x="298.8" y="172.3" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.393939393939393" font-weight="500" fill="#1f2a37">weighted</text>
+<text x="298.8" y="189.8" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.393939393939393" font-weight="500" fill="#1f2a37">policy</text>
+<text x="298.8" y="207.4" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.393939393939393" font-weight="500" fill="#1f2a37">update</text>
+<line x1="232.0" y1="176.0" x2="248.0" y2="176.0" stroke="#5b6b7b" stroke-width="2.2" marker-end="url(#ah)"/>
+<rect x="368.5" y="112.0" width="95.5" height="128.0" rx="10" fill="#e4f3f1" stroke="#2a8c82" stroke-width="2"/>
+<text x="416.2" y="171.8" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">High-dim</text>
+<text x="416.2" y="191.4" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">control</text>
+<line x1="349.5" y1="176.0" x2="365.5" y2="176.0" stroke="#5b6b7b" stroke-width="2.2" marker-end="url(#ah)"/>
+<path d="M416.2,240.0 L416.2,270 L63.8,270 L63.8,244.0" fill="none" stroke="#5b6b7b" stroke-width="2.2" stroke-dasharray="6 5" marker-end="url(#ah)"/>
+<rect x="170.0" y="259" width="140" height="22" fill="#fff"/>
+<text x="240.0" y="274.6" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5b6b7b">collect data</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" width="480" height="320">
+<title>BBRL: Episode-based RL in parameter space gives smooth, energy-efficient motion</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5b6b7b"/></marker></defs>
+<rect width="480" height="320" fill="#ffffff"/>
+<rect x="0" y="0" width="480" height="6" fill="#2a8c82"/>
+<text x="16" y="54" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="34.0" font-weight="700" letter-spacing="-0.5" fill="#1f2a37">BBRL</text>
+<text x="16" y="80" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15.5" fill="#5b6b7b">Black-box RL with movement primitives</text>
+<polyline points="350.0,67.5 361.0,77.5 372.0,77.8 383.0,68.3 394.0,53.5 405.0,40.4 416.0,35.0 427.0,40.0 438.0,53.0 449.0,67.9 460.0,77.6" fill="none" stroke="#2a8c82" stroke-width="3" stroke-linecap="round"/>
+<circle cx="350.0" cy="67.5" r="4" fill="#fff" stroke="#2a8c82" stroke-width="2"/>
+<circle cx="383.0" cy="68.3" r="4" fill="#fff" stroke="#2a8c82" stroke-width="2"/>
+<circle cx="416.0" cy="35.0" r="4" fill="#fff" stroke="#2a8c82" stroke-width="2"/>
+<circle cx="449.0" cy="67.9" r="4" fill="#fff" stroke="#2a8c82" stroke-width="2"/>
+<rect x="16.0" y="112.0" width="95.5" height="128.0" rx="10" fill="#eef1f4" stroke="#4a5a6a" stroke-width="2"/>
+<text x="63.8" y="181.6" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">Context</text>
+<rect x="133.5" y="112.0" width="95.5" height="128.0" rx="10" fill="#e6f0f7" stroke="#2f6f9f" stroke-width="2"/>
+<text x="181.2" y="163.5" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.393939393939393" font-weight="500" fill="#1f2a37">Policy over</text>
+<text x="181.2" y="181.0" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.393939393939393" font-weight="500" fill="#1f2a37">MP</text>
+<text x="181.2" y="198.6" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.393939393939393" font-weight="500" fill="#1f2a37">parameters</text>
+<line x1="114.5" y1="176.0" x2="130.5" y2="176.0" stroke="#5b6b7b" stroke-width="2.2" marker-end="url(#ah)"/>
+<rect x="251.0" y="112.0" width="95.5" height="128.0" rx="10" fill="#e4f3f1" stroke="#2a8c82" stroke-width="2"/>
+<text x="298.8" y="162.2" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15.833333333333332" font-weight="500" fill="#1f2a37">Smooth</text>
+<text x="298.8" y="181.5" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15.833333333333332" font-weight="500" fill="#1f2a37">trajectory</text>
+<text x="298.8" y="200.9" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15.833333333333332" font-weight="500" fill="#1f2a37">(ProMP)</text>
+<line x1="232.0" y1="176.0" x2="248.0" y2="176.0" stroke="#5b6b7b" stroke-width="2.2" marker-end="url(#ah)"/>
+<rect x="368.5" y="112.0" width="95.5" height="128.0" rx="10" fill="#fbf1df" stroke="#b7791f" stroke-width="2"/>
+<text x="416.2" y="171.8" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">Episode</text>
+<text x="416.2" y="191.4" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">return</text>
+<line x1="349.5" y1="176.0" x2="365.5" y2="176.0" stroke="#5b6b7b" stroke-width="2.2" marker-end="url(#ah)"/>
+<path d="M416.2,240.0 L416.2,270 L181.2,270 L181.2,244.0" fill="none" stroke="#5b6b7b" stroke-width="2.2" stroke-dasharray="6 5" marker-end="url(#ah)"/>
+<rect x="228.8" y="259" width="140" height="22" fill="#fff"/>
+<text x="298.8" y="274.6" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5b6b7b">trust-region update</text>
+</svg>

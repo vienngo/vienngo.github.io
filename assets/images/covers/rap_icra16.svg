@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" width="480" height="320">
+<title>RAP: Modeling concurrent, cooperative activities of multiple agents</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5b6b7b"/></marker></defs>
+<rect width="480" height="320" fill="#ffffff"/>
+<rect x="0" y="0" width="480" height="6" fill="#2f6f9f"/>
+<text x="16" y="54" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="34.0" font-weight="700" letter-spacing="-0.5" fill="#1f2a37">RAP</text>
+<text x="16" y="80" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15.5" fill="#5b6b7b">Relational activity processes</text>
+<line x1="435" y1="85" x2="403" y2="72" stroke="#5b6b7b" stroke-width="1.4"/>
+<line x1="435" y1="85" x2="428" y2="54" stroke="#5b6b7b" stroke-width="1.4"/>
+<line x1="435" y1="85" x2="451" y2="54" stroke="#5b6b7b" stroke-width="1.4"/>
+<line x1="435" y1="85" x2="419" y2="68" stroke="#5b6b7b" stroke-width="1.4"/>
+<line x1="385" y1="31" x2="358" y2="56" stroke="#5b6b7b" stroke-width="1.4"/>
+<line x1="385" y1="31" x2="394" y2="33" stroke="#5b6b7b" stroke-width="1.4"/>
+<line x1="385" y1="31" x2="391" y2="72" stroke="#5b6b7b" stroke-width="1.4"/>
+<line x1="403" y1="72" x2="428" y2="54" stroke="#5b6b7b" stroke-width="1.4"/>
+<line x1="403" y1="72" x2="394" y2="33" stroke="#5b6b7b" stroke-width="1.4"/>
+<line x1="403" y1="72" x2="391" y2="72" stroke="#5b6b7b" stroke-width="1.4"/>
+<line x1="403" y1="72" x2="419" y2="68" stroke="#5b6b7b" stroke-width="1.4"/>
+<line x1="358" y1="56" x2="391" y2="72" stroke="#5b6b7b" stroke-width="1.4"/>
+<line x1="428" y1="54" x2="451" y2="54" stroke="#5b6b7b" stroke-width="1.4"/>
+<line x1="428" y1="54" x2="394" y2="33" stroke="#5b6b7b" stroke-width="1.4"/>
+<line x1="428" y1="54" x2="391" y2="72" stroke="#5b6b7b" stroke-width="1.4"/>
+<line x1="428" y1="54" x2="419" y2="68" stroke="#5b6b7b" stroke-width="1.4"/>
+<line x1="451" y1="54" x2="419" y2="68" stroke="#5b6b7b" stroke-width="1.4"/>
+<line x1="394" y1="33" x2="391" y2="72" stroke="#5b6b7b" stroke-width="1.4"/>
+<line x1="391" y1="72" x2="419" y2="68" stroke="#5b6b7b" stroke-width="1.4"/>
+<circle cx="435" cy="85" r="5" fill="#e6f0f7" stroke="#2f6f9f" stroke-width="2"/>
+<circle cx="385" cy="31" r="5" fill="#e6f0f7" stroke="#2f6f9f" stroke-width="2"/>
+<circle cx="403" cy="72" r="5" fill="#e6f0f7" stroke="#2f6f9f" stroke-width="2"/>
+<circle cx="358" cy="56" r="5" fill="#e6f0f7" stroke="#2f6f9f" stroke-width="2"/>
+<circle cx="428" cy="54" r="5" fill="#e6f0f7" stroke="#2f6f9f" stroke-width="2"/>
+<circle cx="451" cy="54" r="5" fill="#e6f0f7" stroke="#2f6f9f" stroke-width="2"/>
+<circle cx="394" cy="33" r="5" fill="#e6f0f7" stroke="#2f6f9f" stroke-width="2"/>
+<circle cx="391" cy="72" r="5" fill="#e6f0f7" stroke="#2f6f9f" stroke-width="2"/>
+<circle cx="419" cy="68" r="5" fill="#e6f0f7" stroke="#2f6f9f" stroke-width="2"/>
+<rect x="16.0" y="128.0" width="134.7" height="128.0" rx="10" fill="#eef1f4" stroke="#4a5a6a" stroke-width="2"/>
+<text x="83.3" y="168.3" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">Concurrent</text>
+<text x="83.3" y="187.8" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">human &amp;</text>
+<text x="83.3" y="207.4" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">robot</text>
+<text x="83.3" y="226.9" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">activities</text>
+<rect x="172.7" y="128.0" width="134.7" height="128.0" rx="10" fill="#e6f0f7" stroke="#2f6f9f" stroke-width="2"/>
+<text x="240.0" y="178.1" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">Relational</text>
+<text x="240.0" y="197.6" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">semi-Markov</text>
+<text x="240.0" y="217.1" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">model</text>
+<line x1="153.7" y1="192.0" x2="169.7" y2="192.0" stroke="#5b6b7b" stroke-width="2.2" marker-end="url(#ah)"/>
+<rect x="329.3" y="128.0" width="134.7" height="128.0" rx="10" fill="#e4f3f1" stroke="#2a8c82" stroke-width="2"/>
+<text x="396.7" y="187.8" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">Learn / plan</text>
+<text x="396.7" y="207.4" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">cooperation</text>
+<line x1="310.3" y1="192.0" x2="326.3" y2="192.0" stroke="#5b6b7b" stroke-width="2.2" marker-end="url(#ah)"/>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" width="480" height="320">
+<title>Mechanical search: Decide what to move, then how, to uncover a hidden target</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5b6b7b"/></marker></defs>
+<rect width="480" height="320" fill="#ffffff"/>
+<rect x="0" y="0" width="480" height="6" fill="#2a8c82"/>
+<text x="16" y="54" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="31.2" font-weight="700" letter-spacing="-0.5" fill="#1f2a37">Mechanical search</text>
+<text x="16" y="80" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15.5" fill="#5b6b7b">Hierarchical policy learning</text>
+<rect x="358" y="26" width="16" height="13" rx="2" fill="#2a8c82" opacity="0.85"/>
+<rect x="358" y="43" width="16" height="13" rx="2" fill="#dfe5ea" opacity="1"/>
+<rect x="358" y="60" width="16" height="13" rx="2" fill="#2a8c82" opacity="0.85"/>
+<rect x="358" y="77" width="16" height="13" rx="2" fill="#2a8c82" opacity="0.85"/>
+<rect x="378" y="26" width="16" height="13" rx="2" fill="#dfe5ea" opacity="1"/>
+<rect x="378" y="43" width="16" height="13" rx="2" fill="#dfe5ea" opacity="1"/>
+<rect x="378" y="60" width="16" height="13" rx="2" fill="#2a8c82" opacity="0.85"/>
+<rect x="378" y="77" width="16" height="13" rx="2" fill="#2a8c82" opacity="0.85"/>
+<rect x="398" y="26" width="16" height="13" rx="2" fill="#dfe5ea" opacity="1"/>
+<rect x="398" y="43" width="16" height="13" rx="2" fill="#2a8c82" opacity="0.85"/>
+<rect x="398" y="60" width="16" height="13" rx="2" fill="#dfe5ea" opacity="1"/>
+<rect x="398" y="77" width="16" height="13" rx="2" fill="#dfe5ea" opacity="1"/>
+<rect x="418" y="26" width="16" height="13" rx="2" fill="#2a8c82" opacity="0.85"/>
+<rect x="418" y="43" width="16" height="13" rx="2" fill="#dfe5ea" opacity="1"/>
+<rect x="418" y="60" width="16" height="13" rx="2" fill="#2a8c82" opacity="0.85"/>
+<rect x="418" y="77" width="16" height="13" rx="2" fill="#2a8c82" opacity="0.85"/>
+<rect x="438" y="26" width="16" height="13" rx="2" fill="#dfe5ea" opacity="1"/>
+<rect x="438" y="43" width="16" height="13" rx="2" fill="#2a8c82" opacity="0.85"/>
+<rect x="438" y="60" width="16" height="13" rx="2" fill="#dfe5ea" opacity="1"/>
+<rect x="438" y="77" width="16" height="13" rx="2" fill="#dfe5ea" opacity="1"/>
+<rect x="16.0" y="112.0" width="95.5" height="128.0" rx="10" fill="#eef1f4" stroke="#4a5a6a" stroke-width="2"/>
+<text x="63.8" y="171.8" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">Cluttered</text>
+<text x="63.8" y="191.4" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">scene</text>
+<rect x="133.5" y="112.0" width="95.5" height="128.0" rx="10" fill="#e6f0f7" stroke="#2f6f9f" stroke-width="2"/>
+<text x="181.2" y="162.1" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">High-</text>
+<text x="181.2" y="181.6" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">level</text>
+<text x="181.2" y="201.1" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">policy</text>
+<line x1="114.5" y1="176.0" x2="130.5" y2="176.0" stroke="#5b6b7b" stroke-width="2.2" marker-end="url(#ah)"/>
+<rect x="251.0" y="112.0" width="95.5" height="128.0" rx="10" fill="#fbf1df" stroke="#b7791f" stroke-width="2"/>
+<text x="298.8" y="152.3" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">Low-</text>
+<text x="298.8" y="171.8" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">level</text>
+<text x="298.8" y="191.4" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">push /</text>
+<text x="298.8" y="210.9" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">grasp</text>
+<line x1="232.0" y1="176.0" x2="248.0" y2="176.0" stroke="#5b6b7b" stroke-width="2.2" marker-end="url(#ah)"/>
+<rect x="368.5" y="112.0" width="95.5" height="128.0" rx="10" fill="#e4f3f1" stroke="#2a8c82" stroke-width="2"/>
+<text x="416.2" y="171.8" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">Target</text>
+<text x="416.2" y="191.4" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">revealed</text>
+<line x1="349.5" y1="176.0" x2="365.5" y2="176.0" stroke="#5b6b7b" stroke-width="2.2" marker-end="url(#ah)"/>
+<path d="M416.2,240.0 L416.2,270 L181.2,270 L181.2,244.0" fill="none" stroke="#5b6b7b" stroke-width="2.2" stroke-dasharray="6 5" marker-end="url(#ah)"/>
+<rect x="228.8" y="259" width="140" height="22" fill="#fff"/>
+<text x="298.8" y="274.6" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5b6b7b">until target found</text>
+</svg>

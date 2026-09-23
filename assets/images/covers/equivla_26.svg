@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" width="480" height="320">
+<title>EquiVLA: Geometric inductive bias improves data efficiency across orientations</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5b6b7b"/></marker></defs>
+<rect width="480" height="320" fill="#ffffff"/>
+<rect x="0" y="0" width="480" height="6" fill="#7a4f9a"/>
+<text x="16" y="54" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="34.0" font-weight="700" letter-spacing="-0.5" fill="#1f2a37">EquiVLA</text>
+<text x="16" y="80" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15.5" fill="#5b6b7b">Rotation-equivariant VLA models</text>
+<circle cx="405" cy="58" r="28" fill="none" stroke="#7a4f9a" stroke-width="2.5" stroke-dasharray="120 60"/>
+<polygon points="427,36 437,44 425,48" fill="#7a4f9a"/>
+<rect x="395" y="48" width="20" height="20" fill="#f1eaf6" stroke="#7a4f9a" stroke-width="2" transform="rotate(25 405 58)"/>
+<rect x="16.0" y="128.0" width="95.5" height="128.0" rx="10" fill="#eef1f4" stroke="#4a5a6a" stroke-width="2"/>
+<text x="63.8" y="188.3" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.393939393939393" font-weight="500" fill="#1f2a37">Camera</text>
+<text x="63.8" y="205.8" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.393939393939393" font-weight="500" fill="#1f2a37">observation</text>
+<rect x="133.5" y="128.0" width="95.5" height="128.0" rx="10" fill="#e6f0f7" stroke="#2f6f9f" stroke-width="2"/>
+<text x="181.2" y="188.8" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.179487179487179" font-weight="500" fill="#1f2a37">Frozen VLM +</text>
+<text x="181.2" y="203.7" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.179487179487179" font-weight="500" fill="#1f2a37">EquiPerceptor</text>
+<line x1="114.5" y1="192.0" x2="130.5" y2="192.0" stroke="#5b6b7b" stroke-width="2.2" marker-end="url(#ah)"/>
+<rect x="251.0" y="128.0" width="95.5" height="128.0" rx="10" fill="#f1eaf6" stroke="#7a4f9a" stroke-width="2"/>
+<text x="298.8" y="168.3" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">EquiActor</text>
+<text x="298.8" y="187.8" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">flow-</text>
+<text x="298.8" y="207.4" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">matching</text>
+<text x="298.8" y="226.9" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">DiT</text>
+<line x1="232.0" y1="192.0" x2="248.0" y2="192.0" stroke="#5b6b7b" stroke-width="2.2" marker-end="url(#ah)"/>
+<rect x="368.5" y="128.0" width="95.5" height="128.0" rx="10" fill="#e4f3f1" stroke="#2a8c82" stroke-width="2"/>
+<text x="416.2" y="179.5" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.393939393939393" font-weight="500" fill="#1f2a37">SO(2)-</text>
+<text x="416.2" y="197.0" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.393939393939393" font-weight="500" fill="#1f2a37">equivariant</text>
+<text x="416.2" y="214.6" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.393939393939393" font-weight="500" fill="#1f2a37">actions</text>
+<line x1="349.5" y1="192.0" x2="365.5" y2="192.0" stroke="#5b6b7b" stroke-width="2.2" marker-end="url(#ah)"/>
+</svg>

@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" width="480" height="320">
+<title>6-DoF grasp detection: Efficient end-to-end grasp detection in cluttered bins</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5b6b7b"/></marker></defs>
+<rect width="480" height="320" fill="#ffffff"/>
+<rect x="0" y="0" width="480" height="6" fill="#2f6f9f"/>
+<text x="16" y="54" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="25.2" font-weight="700" letter-spacing="-0.5" fill="#1f2a37">6-DoF grasp detection</text>
+<text x="16" y="80" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15.5" fill="#5b6b7b">End-to-end, for bin picking</text>
+<circle cx="404.2" cy="60.0" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="421.3" cy="79.3" r="2" fill="#7a4f9a" opacity="0.8"/>
+<circle cx="375.8" cy="48.6" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="443.8" cy="66.3" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="371.2" cy="51.2" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="442.5" cy="67.9" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="399.5" cy="51.2" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="416.8" cy="44.3" r="2" fill="#7a4f9a" opacity="0.8"/>
+<circle cx="424.5" cy="32.0" r="2" fill="#7a4f9a" opacity="0.8"/>
+<circle cx="420.1" cy="72.1" r="2" fill="#7a4f9a" opacity="0.8"/>
+<circle cx="396.6" cy="45.0" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="386.9" cy="54.4" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="422.8" cy="52.4" r="2" fill="#7a4f9a" opacity="0.8"/>
+<circle cx="435.9" cy="38.1" r="2" fill="#2f6f9f" opacity="0.8"/>
+<circle cx="436.3" cy="65.6" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="432.1" cy="79.0" r="2" fill="#7a4f9a" opacity="0.8"/>
+<circle cx="409.2" cy="51.0" r="2" fill="#7a4f9a" opacity="0.8"/>
+<circle cx="398.6" cy="44.6" r="2" fill="#7a4f9a" opacity="0.8"/>
+<circle cx="408.5" cy="35.1" r="2" fill="#2f6f9f" opacity="0.8"/>
+<circle cx="393.2" cy="47.5" r="2" fill="#7a4f9a" opacity="0.8"/>
+<circle cx="371.9" cy="48.7" r="2" fill="#7a4f9a" opacity="0.8"/>
+<circle cx="435.3" cy="48.8" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="423.0" cy="48.9" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="398.2" cy="45.5" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="438.9" cy="59.6" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="415.9" cy="55.8" r="2" fill="#2f6f9f" opacity="0.8"/>
+<circle cx="445.1" cy="51.7" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="398.6" cy="44.5" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="375.9" cy="74.6" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="406.2" cy="72.4" r="2" fill="#7a4f9a" opacity="0.8"/>
+<circle cx="397.6" cy="69.1" r="2" fill="#2f6f9f" opacity="0.8"/>
+<circle cx="381.7" cy="58.4" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="431.9" cy="61.7" r="2" fill="#2f6f9f" opacity="0.8"/>
+<circle cx="440.1" cy="63.5" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="411.5" cy="62.0" r="2" fill="#2f6f9f" opacity="0.8"/>
+<circle cx="441.9" cy="45.0" r="2" fill="#2f6f9f" opacity="0.8"/>
+<circle cx="433.5" cy="44.8" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="396.9" cy="54.4" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="413.5" cy="73.2" r="2" fill="#2f6f9f" opacity="0.8"/>
+<circle cx="415.4" cy="48.4" r="2" fill="#2f6f9f" opacity="0.8"/>
+<circle cx="392.9" cy="54.2" r="2" fill="#2f6f9f" opacity="0.8"/>
+<circle cx="394.2" cy="64.5" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="372.6" cy="45.6" r="2" fill="#7a4f9a" opacity="0.8"/>
+<circle cx="386.1" cy="50.0" r="2" fill="#2f6f9f" opacity="0.8"/>
+<circle cx="384.6" cy="72.3" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="406.6" cy="60.4" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="415.8" cy="43.1" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="388.2" cy="76.6" r="2" fill="#2f6f9f" opacity="0.8"/>
+<circle cx="383.1" cy="67.0" r="2" fill="#2f6f9f" opacity="0.8"/>
+<circle cx="399.6" cy="46.1" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="371.8" cy="63.0" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="368.4" cy="63.4" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="436.1" cy="62.1" r="2" fill="#7a4f9a" opacity="0.8"/>
+<circle cx="420.6" cy="60.7" r="2" fill="#2f6f9f" opacity="0.8"/>
+<circle cx="403.5" cy="33.1" r="2" fill="#7a4f9a" opacity="0.8"/>
+<circle cx="387.7" cy="54.4" r="2" fill="#2f6f9f" opacity="0.8"/>
+<circle cx="400.5" cy="64.8" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="427.1" cy="39.6" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="438.7" cy="49.8" r="2" fill="#7a4f9a" opacity="0.8"/>
+<circle cx="389.9" cy="57.6" r="2" fill="#7a4f9a" opacity="0.8"/>
+<circle cx="417.2" cy="34.7" r="2" fill="#2f6f9f" opacity="0.8"/>
+<circle cx="410.4" cy="79.0" r="2" fill="#2f6f9f" opacity="0.8"/>
+<circle cx="404.4" cy="81.2" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="410.0" cy="54.9" r="2" fill="#2f6f9f" opacity="0.8"/>
+<circle cx="415.5" cy="66.6" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="379.3" cy="41.5" r="2" fill="#2f6f9f" opacity="0.8"/>
+<circle cx="446.2" cy="58.8" r="2" fill="#2a8c82" opacity="0.8"/>
+<circle cx="398.7" cy="45.7" r="2" fill="#2f6f9f" opacity="0.8"/>
+<circle cx="401.7" cy="52.4" r="2" fill="#7a4f9a" opacity="0.8"/>
+<circle cx="438.6" cy="41.9" r="2" fill="#7a4f9a" opacity="0.8"/>
+<rect x="16.0" y="128.0" width="95.5" height="128.0" rx="10" fill="#eef1f4" stroke="#4a5a6a" stroke-width="2"/>
+<text x="63.8" y="178.1" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">Scene</text>
+<text x="63.8" y="197.6" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">point</text>
+<text x="63.8" y="217.1" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">cloud</text>
+<rect x="133.5" y="128.0" width="95.5" height="128.0" rx="10" fill="#e6f0f7" stroke="#2f6f9f" stroke-width="2"/>
+<text x="181.2" y="178.1" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">Single-</text>
+<text x="181.2" y="197.6" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">stage</text>
+<text x="181.2" y="217.1" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">network</text>
+<line x1="114.5" y1="192.0" x2="130.5" y2="192.0" stroke="#5b6b7b" stroke-width="2.2" marker-end="url(#ah)"/>
+<rect x="251.0" y="128.0" width="95.5" height="128.0" rx="10" fill="#fbf1df" stroke="#b7791f" stroke-width="2"/>
+<text x="298.8" y="187.9" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15.833333333333332" font-weight="500" fill="#1f2a37">Dense 6-</text>
+<text x="298.8" y="207.2" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15.833333333333332" font-weight="500" fill="#1f2a37">DoF grasps</text>
+<line x1="232.0" y1="192.0" x2="248.0" y2="192.0" stroke="#5b6b7b" stroke-width="2.2" marker-end="url(#ah)"/>
+<rect x="368.5" y="128.0" width="95.5" height="128.0" rx="10" fill="#e4f3f1" stroke="#2a8c82" stroke-width="2"/>
+<text x="416.2" y="187.9" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15.833333333333332" font-weight="500" fill="#1f2a37">Collision-</text>
+<text x="416.2" y="207.2" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15.833333333333332" font-weight="500" fill="#1f2a37">free pick</text>
+<line x1="349.5" y1="192.0" x2="365.5" y2="192.0" stroke="#5b6b7b" stroke-width="2.2" marker-end="url(#ah)"/>
+</svg>

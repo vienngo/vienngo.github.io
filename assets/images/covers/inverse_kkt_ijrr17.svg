@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" width="480" height="320">
+<title>Inverse KKT: Demonstrations are assumed optimal; KKT conditions reveal the cost</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5b6b7b"/></marker></defs>
+<rect width="480" height="320" fill="#ffffff"/>
+<rect x="0" y="0" width="480" height="6" fill="#2a8c82"/>
+<text x="16" y="54" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="34.0" font-weight="700" letter-spacing="-0.5" fill="#1f2a37">Inverse KKT</text>
+<text x="16" y="80" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15.5" fill="#5b6b7b">Cost functions from demonstrations</text>
+<polyline points="350.0,67.5 361.0,77.5 372.0,77.8 383.0,68.3 394.0,53.5 405.0,40.4 416.0,35.0 427.0,40.0 438.0,53.0 449.0,67.9 460.0,77.6" fill="none" stroke="#2a8c82" stroke-width="3" stroke-linecap="round"/>
+<circle cx="350.0" cy="67.5" r="4" fill="#fff" stroke="#2a8c82" stroke-width="2"/>
+<circle cx="383.0" cy="68.3" r="4" fill="#fff" stroke="#2a8c82" stroke-width="2"/>
+<circle cx="416.0" cy="35.0" r="4" fill="#fff" stroke="#2a8c82" stroke-width="2"/>
+<circle cx="449.0" cy="67.9" r="4" fill="#fff" stroke="#2a8c82" stroke-width="2"/>
+<rect x="16.0" y="128.0" width="95.5" height="128.0" rx="10" fill="#eef1f4" stroke="#4a5a6a" stroke-width="2"/>
+<text x="63.8" y="188.6" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.194444444444443" font-weight="500" fill="#1f2a37">Demonstrated</text>
+<text x="63.8" y="204.7" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.194444444444443" font-weight="500" fill="#1f2a37">trajectories</text>
+<rect x="133.5" y="128.0" width="95.5" height="128.0" rx="10" fill="#fbf1df" stroke="#b7791f" stroke-width="2"/>
+<text x="181.2" y="178.2" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15.833333333333332" font-weight="500" fill="#1f2a37">KKT</text>
+<text x="181.2" y="197.5" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15.833333333333332" font-weight="500" fill="#1f2a37">optimality</text>
+<text x="181.2" y="216.9" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15.833333333333332" font-weight="500" fill="#1f2a37">conditions</text>
+<line x1="114.5" y1="192.0" x2="130.5" y2="192.0" stroke="#5b6b7b" stroke-width="2.2" marker-end="url(#ah)"/>
+<rect x="251.0" y="128.0" width="95.5" height="128.0" rx="10" fill="#e6f0f7" stroke="#2f6f9f" stroke-width="2"/>
+<text x="298.8" y="178.1" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">Solve</text>
+<text x="298.8" y="197.6" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">for cost</text>
+<text x="298.8" y="217.1" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#1f2a37">weights</text>
+<line x1="232.0" y1="192.0" x2="248.0" y2="192.0" stroke="#5b6b7b" stroke-width="2.2" marker-end="url(#ah)"/>
+<rect x="368.5" y="128.0" width="95.5" height="128.0" rx="10" fill="#e4f3f1" stroke="#2a8c82" stroke-width="2"/>
+<text x="416.2" y="172.5" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.194444444444443" font-weight="500" fill="#1f2a37">Trajectory</text>
+<text x="416.2" y="188.6" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.194444444444443" font-weight="500" fill="#1f2a37">optimization</text>
+<text x="416.2" y="204.7" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.194444444444443" font-weight="500" fill="#1f2a37">reproduces</text>
+<text x="416.2" y="220.8" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.194444444444443" font-weight="500" fill="#1f2a37">task</text>
+<line x1="349.5" y1="192.0" x2="365.5" y2="192.0" stroke="#5b6b7b" stroke-width="2.2" marker-end="url(#ah)"/>
+</svg>
