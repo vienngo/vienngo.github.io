@@ -3,6 +3,7 @@ title: 'SA6D: Self-Adaptive Few-Shot 6D Pose Estimator for Novel and Occluded
 
   Objects'
 date: '2023-01-01'
+cover: /assets/images/covers/sa6d_corl23.svg
 authors:
 - 'Ning Gao and
 

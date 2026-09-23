@@ -3,6 +3,7 @@ title: 'Model-Free Grasping with Multi-Suction Cup Grippers for Robotic Bin
 
   Picking'
 date: '2023-01-01'
+cover: /assets/images/covers/multisuction_iros23.svg
 authors:
 - 'Philipp Schillinger and
 
