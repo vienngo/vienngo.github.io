@@ -1,7 +1,7 @@
 ---
 title: 'Start Right, Arrive Right: Asynchronous Execution via Initial Noise Selection'
 date: '2026-06-18'
-cover: /assets/images/covers/paint_26.svg
+cover: /assets/images/covers/paint_26.gif
 selected: True
 authors:
 - 'Trong-Bao Ho and Quang-Tan Nguyen and Thien-Loc Ha and Gia-Binh Nguyen and Viet-Thanh Nguyen and Long Dinh and Minh N. Vu and Duy M. H. Nguyen and An Thai Le and Ngo Anh Vien'
@@ -11,4 +11,6 @@ links:
   - https://arxiv.org/abs/2606.19774
 - - Code
   - https://github.com/htrbao/paint-action-chunking
+- - Project page
+  - https://paint-action-chunking.github.io/
 ---
